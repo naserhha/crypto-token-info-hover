@@ -26,7 +26,7 @@ A free Chrome Extension that automatically highlights Ethereum contract addresse
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/nasserhaji/crypto-token-info-hover.git
+   git clone https://github.com/naserhha/crypto-token-info-hover.git
    cd crypto-token-info-hover
    ```
 
@@ -175,8 +175,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Mohammad Nasser Haji Hashemabad** © 2025
 
-- 🔗 LinkedIn: [https://linkedin.com/in/nasserhaji](https://linkedin.com/in/nasserhaji)
-- 🔗 GitHub: [https://github.com/nasserhaji](https://github.com/nasserhaji)
+- 🔗 LinkedIn: [https://linkedin.com/in/naserhha](https://linkedin.com/in/naserhha)
+- 🔗 GitHub: [https://github.com/naserhha](https://github.com/naserhha)
 - 🌐 Website: [https://mohammadnasser.com/](https://mohammadnasser.com/)
 
 ## 🙏 Acknowledgments
@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/nasserhaji/crypto-token-info-hover/issues) page
+1. Check the [Issues](https://github.com/naserhha/crypto-token-info-hover/issues) page
 2. Create a new issue with detailed information
 3. Contact the author through LinkedIn or GitHub
 
